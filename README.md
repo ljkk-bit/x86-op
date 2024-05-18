@@ -1,11 +1,14 @@
-**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
-自用X86-64固件插件：
 
-![Snipaste_2023-12-08_13-41-03](https://github.com/ljkk-bit/Actions-OpenWrt/assets/75051886/9fcc88f3-8ad0-49a2-8640-0832e9ded792)
 
-![Snipaste_2023-12-08_13-41-16](https://github.com/ljkk-bit/Actions-OpenWrt/assets/75051886/a91ad813-961f-4d95-bfa4-20699218d40e)
 
-![Snipaste_2023-12-08_13-41-25](https://github.com/ljkk-bit/Actions-OpenWrt/assets/75051886/81e8dd1c-843b-4e01-ae45-2f0069e8f639)
+2024.02.22更新编译主程序(扩容）
+
+
+
+#插件：
+
+![Snipaste_2023-12-08_13-41-03](https://github.com/ljkk-li/Actions-OpenWrt/assets/51225555/32cc5651-1b9b-400d-a081-0a1648f59f48)    ![Snipaste_2023-12-08_13-41-16](https://github.com/ljkk-li/Actions-OpenWrt/assets/51225555/a38f8ef5-bfdd-4fdd-b59f-4943ba69f6f1)  ![Snipaste_2023-12-08_13-41-25](https://github.com/ljkk-li/Actions-OpenWrt/assets/51225555/bd89e9ec-9714-4d74-9b52-c1fc510e5806)
+
 
 
 # Actions-OpenWrt
